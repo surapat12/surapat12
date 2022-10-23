@@ -11,10 +11,15 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=surapat12&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+ 
+### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### I am Angpao
 
+:sunglasses: I’m currently studying computer engineering at KMITL
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surapat12&layout=compact&theme=vision-friendly-dark)](https://github.com/surapat12/github-readme-stats)

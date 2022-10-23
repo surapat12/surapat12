@@ -18,9 +18,9 @@
 
 
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### I am Angpao 😏
+### I am Angpao 😎
 
-:sunglasses: I’m currently studying computer engineering at KMITL
+-   I’m currently studying computer engineering at KMITL 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surapat12&show_icons=true&theme=vision-friendly-dark)
 

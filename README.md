@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/kimWBtJDjWcwFH2nRB/giphy.gif" width="200"/>
   <div id="badges">
   <a href="https://www.facebook.com/angpao.martin.5/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +18,7 @@
 
 
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### I am Angpao
+### I am Angpao 😏
 
 :sunglasses: I’m currently studying computer engineering at KMITL
 
